@@ -55,12 +55,6 @@ Helped ship a B2B data-sharing ecosystem with OAuth2 + Azure + Django
 
 ---
 
-## 📈 GitHub Stats
-
-![Ruby's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybui&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Let’s Connect!
 
 If you're building something ambitious — I’d love to hear about it.  
